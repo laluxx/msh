@@ -1,0 +1,4 @@
+#+TITLE: Meta shell
+#+AUTHOR: Laluxx
+
+Meta shell for emacs
